@@ -61,3 +61,6 @@
 - To merge locally: git merge feature-name
 - To push into GitHub first: git push --set-upstream origin feature-name
   git
+- Create a pull request in GitHub
+- git pull (to merge into local)
+-
