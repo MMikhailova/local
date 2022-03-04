@@ -11,6 +11,14 @@
 
 # Code
 
+**How to clone repo from GitHub to a local directory**
+
+- create a repo on GitHub
+- clone-->copy repo link
+- create a local folder via VS
+- type in Terminal: git clone paste the link from GitHub
+- cd folder name
+
 **How to push changes to my GitHub(remote) from local directory:**
 
 - git status serves to show changes made
