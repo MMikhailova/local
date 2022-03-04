@@ -36,3 +36,16 @@
 - cat testkey.pub
 - copy the key from terminal and paste into GitHub
 - [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+**How to create a local repo and push it into GitHub**
+
+- create a folder in VS Code with a file
+- cd folder name
+- git init
+- git add .
+- git commit -m"add files"
+- create a new repo in GitHub and copy the SSH link
+- in terminal: git remote add origin SSH link
+- git remote -v (to see the remote repo connected to this repo)
+- git push -u origin master (-u set up upstream)
+-
