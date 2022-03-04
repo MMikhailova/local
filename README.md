@@ -48,4 +48,9 @@
 - in terminal: git remote add origin SSH link
 - git remote -v (to see the remote repo connected to this repo)
 - git push -u origin master (-u set up upstream)
--
+
+**How to add branches**
+
+- git branch to check which branch you are in
+- checkout -b feature-"name"-"description"
+- checkout serves to switch between branches
