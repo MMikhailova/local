@@ -48,4 +48,16 @@
 - in terminal: git remote add origin SSH link
 - git remote -v (to see the remote repo connected to this repo)
 - git push -u origin master (-u set up upstream)
--
+
+**How to add branches**
+
+- git branch to check which branch you are in
+- checkout -b feature-"name"-"description"
+- checkout serves to switch between branches
+- git add name.md
+- git commit -m"Update name.md"
+- git checkout master
+- git diff feature-name
+- To merge locally: git merge feature-name
+- To push into GitHub first: git push --set-upstream origin feature-name
+  git
