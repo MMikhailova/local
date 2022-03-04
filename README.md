@@ -58,3 +58,6 @@
 - git commit -m"Update name.md"
 - git checkout master
 - git diff feature-name
+- To merge locally: git merge feature-name
+- To push into GitHub first: git push --set-upstream origin feature-name
+  git
