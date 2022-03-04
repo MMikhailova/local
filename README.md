@@ -25,3 +25,14 @@
 - git add . or git add README.md to add new files
 - git commit -m "Add file and modify README" -m "Description"
 - git push
+
+**How to create SSH keys**
+
+- ssh-keygen -t rsa -b 4096 -C"YourGitHub email"
+- generating public/private rsa key pair
+- enter the file in which to save the key, you can change the name ex.testkey
+- enter your passphrase:
+- to search for the key generated: ls | grep testkey
+- cat testkey.pub
+- copy the key from terminal and paste into GitHub
+- [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
