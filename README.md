@@ -54,3 +54,7 @@
 - git branch to check which branch you are in
 - checkout -b feature-"name"-"description"
 - checkout serves to switch between branches
+- git add name.md
+- git commit -m"Update name.md"
+- git checkout master
+- git diff feature-name
