@@ -50,12 +50,16 @@
 - git push -u origin master (-u set up upstream)
 
 **How to add branches**
+-git brach -to create a branch
+-git checkout branch -to switch to a branch
 
+-
 - git branch to check which branch you are in
 - checkout -b feature-"name"-"description"
 - checkout serves to switch between branches
 - git add name.md
 - git commit -m"Update name.md"
+- 
 - git checkout master
 - git diff feature-name
 - To merge locally: git merge feature-name
@@ -63,4 +67,23 @@
   git
 - Create a pull request in GitHub
 - git pull (to merge into local)
--
+
+.Gitignore 
+ls -a - to see hidden filees
+
+**Work on a project**
+- To be able to pull changes you need to be a collaborator 
+  - Settings --> collaborators
+ **Terminal**
+ 
+ 
+ Tab to finish word 
+ cmd shift+V - paste
+ 
+ **Project board**
+ Basic 
+ 
+ **Vocabulary**
+ Components - parts (boxes) of HTML page
+ Push -from local machine
+ Pull - accept one's code
