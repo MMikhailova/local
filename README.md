@@ -87,3 +87,6 @@ ls -a - to see hidden filees
  Components - parts (boxes) of HTML page
  Push -from local machine
  Pull - accept one's code
+**To pull from GitHub to local cloned repo**
+ git pull origin main
+ 
