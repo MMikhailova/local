@@ -1,17 +1,12 @@
-# Questions
+# My notes
 
-- Can I push commits from VS code without using CLI?
-- How to paste copied text in Terminal?
-- Why do I need to save changes in VS code before push the commits to GitHub?
+## Helpful Links
 
-# Links
+[Markdown](https://www.markdownguide.org/basic-syntax)
+[Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
+[Git cheetlist](https://github.com/0nn0/git-basics-cheatsheet)
 
-- [Markdown](https://www.markdownguide.org/basic-syntax)
-- https://youtu.be/RGOj5yH7evk
-
-# Code
-
-**How to clone repo from GitHub to a local directory**
+## How to clone repo from GitHub to a local directory
 
 - create a repo on GitHub
 - clone-->copy repo link
@@ -31,7 +26,7 @@
 - ssh-keygen -t rsa -b 4096 -C"YourGitHub email"
 - generating public/private rsa key pair
 - enter the file in which to save the key, you can change the name ex.testkey
-- enter your passphrase:
+- enter your passphrase
 - to search for the key generated: ls | grep testkey
 - cat testkey.pub
 - copy the key from terminal and paste into GitHub
@@ -59,7 +54,7 @@
 - checkout serves to switch between branches
 - git add name.md
 - git commit -m"Update name.md"
-- 
+-
 - git checkout master
 - git diff feature-name
 - To merge locally: git merge feature-name
@@ -68,25 +63,24 @@
 - Create a pull request in GitHub
 - git pull (to merge into local)
 
-.Gitignore 
+.Gitignore
 ls -a - to see hidden filees
 
 **Work on a project**
-- To be able to pull changes you need to be a collaborator 
+
+- To be able to pull changes you need to be a collaborator
   - Settings --> collaborators
- **Terminal**
- 
- 
- Tab to finish word 
- cmd shift+V - paste
- 
- **Project board**
- Basic 
- 
- **Vocabulary**
- Components - parts (boxes) of HTML page
- Push -from local machine
- Pull - accept one's code
+    **Terminal**
+
+Tab to finish word
+cmd shift+V - paste
+
+**Project board**
+Basic
+
+**Vocabulary**
+Components - parts (boxes) of HTML page
+Push -from local machine
+Pull - accept one's code
 **To pull from GitHub to local cloned repo**
- git pull origin main
- 
+git pull origin main
