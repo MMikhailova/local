@@ -44,7 +44,8 @@
 - git remote -v (to see the remote repo connected to this repo)
 - git push -u origin master (-u set up upstream)
 
-**How to add branches**
+## How to add branches
+
 -git brach -to create a branch
 -git checkout branch -to switch to a branch
 
@@ -66,21 +67,26 @@
 .Gitignore
 ls -a - to see hidden filees
 
-**Work on a project**
+## Work on a project
 
 - To be able to pull changes you need to be a collaborator
   - Settings --> collaborators
-    **Terminal**
+
+## Terminal
 
 Tab to finish word
 cmd shift+V - paste
 
-**Project board**
+## Project board
+
 Basic
 
-**Vocabulary**
+## Vocabulary
+
 Components - parts (boxes) of HTML page
 Push -from local machine
 Pull - accept one's code
-**To pull from GitHub to local cloned repo**
+
+## To pull from GitHub to local cloned repo
+
 git pull origin main
