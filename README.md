@@ -4,7 +4,7 @@
 
 [Markdown](https://www.markdownguide.org/basic-syntax)
 [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
-[Git cheetlist](https://github.com/0nn0/git-basics-cheatsheet)
+[Git cheatlist](https://github.com/0nn0/git-basics-cheatsheet)
 
 ## How to clone repo from GitHub to a local directory
 
