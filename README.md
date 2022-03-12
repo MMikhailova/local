@@ -6,6 +6,7 @@
 [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)  
 [Git cheatsheet](https://github.com/0nn0/git-basics-cheatsheet)  
 [VS code cheatsheet](https://vscode-shortcuts.com/)
+[Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 ## How to clone repo from GitHub to a local directory
 
