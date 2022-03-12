@@ -14,14 +14,14 @@
 - type in Terminal: git clone paste the link from GitHub
 - cd folder name
 
-**How to push changes to my GitHub(remote) from local directory:**
+## How to push changes to my GitHub(remote) from local directory:\*\*
 
 - git status serves to show changes made
 - git add . or git add README.md to add new files
 - git commit -m "Add file and modify README" -m "Description"
 - git push
 
-**How to create SSH keys**
+## How to create SSH keys
 
 - ssh-keygen -t rsa -b 4096 -C"YourGitHub email"
 - generating public/private rsa key pair
@@ -32,7 +32,7 @@
 - copy the key from terminal and paste into GitHub
 - [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-**How to create a local repo and push it into GitHub**
+## How to create a local repo and push it into GitHub
 
 - create a folder in VS Code with a file
 - cd folder name
