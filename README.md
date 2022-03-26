@@ -7,7 +7,7 @@
 [Git cheatsheet](https://github.com/0nn0/git-basics-cheatsheet)  
 [VS code cheatsheet](https://vscode-shortcuts.com/).   
 [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
-
+[Delete branches](https://www.cloudbees.com/blog/git-delete-branch-how-to-for-both-local-and-remote)
 ## How to clone repo from GitHub to a local directory
 
 - create a repo on GitHub
