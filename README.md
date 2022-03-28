@@ -8,6 +8,13 @@
 [VS code cheatsheet](https://vscode-shortcuts.com/).   
 [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 [Delete branches](https://www.cloudbees.com/blog/git-delete-branch-how-to-for-both-local-and-remote)
+[How to resolve merge conflicts in Git](https://www.youtube.com/watch?v=xNVM5UxlFSA)
+
+CSS:
+[The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
+
+
+
 ## How to clone repo from GitHub to a local directory
 
 - create a repo on GitHub
