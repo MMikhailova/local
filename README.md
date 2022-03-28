@@ -13,6 +13,11 @@
 CSS:
 [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
 
+## How to merge branches
+
+- git merge --squash name of branch 
+
+
 
 
 ## How to clone repo from GitHub to a local directory
